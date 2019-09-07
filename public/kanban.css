@@ -1,0 +1,24 @@
+
+.allBoardStyle{
+  display:flex;
+}
+.title{
+  height: 30px;
+  text-align: center;
+  color:white;
+}
+.input{
+  display:flex;
+  height: 60px;
+}
+.kboard{
+  margin-right: 30px;
+  margin-top: 30px;
+}
+.eachToDo{
+  display:flex;
+}
+.toDo{
+  width: 100%;
+  text-align: center;
+}
